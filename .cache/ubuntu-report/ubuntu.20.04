@@ -1,0 +1,78 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "HP ProBook 450 G3",
+    "Family": "103C_5336AN G=N L=BUS B=HP S=PRO"
+  },
+  "BIOS": {
+    "Vendor": "HP",
+    "Version": "N78 Ver. 01.47"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "78",
+    "Stepping": "3",
+    "Name": "Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1916"
+    }
+  ],
+  "RAM": 8,
+  "Disks": [
+    750.2
+  ],
+  "Partitions": [
+    719.5,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "344mmx193mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.01"
+    }
+  ],
+  "Autologin": true,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_US",
+  "Timezone": "Africa/Nairobi",
+  "Install": {
+    "Media": "Ubuntu 20.04.3 LTS \"Focal Fossa\" - Release amd64 (20210819)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "7": "console_setup",
+      "18": "wireless",
+      "42": "prepare",
+      "146": "partman",
+      "153": "start_install",
+      "169": "timezone",
+      "174": "usersetup",
+      "204": "user_done",
+      "1229": "done"
+    }
+  }
+}

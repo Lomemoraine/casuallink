@@ -1,0 +1,5 @@
+2022/02/22-07:11:10.993 2a71 Creating DB /home/lorraine/.config/Slack/Local Storage/leveldb since it was missing.
+2022/02/22-07:11:12.569 2a71 Reusing MANIFEST /home/lorraine/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2022/02/22-10:45:22.304 5a48 Level-0 table #5: started
+2022/02/22-10:45:22.873 5a48 Level-0 table #5: 11491 bytes OK
+2022/02/22-10:45:22.996 5a48 Delete type=0 #3

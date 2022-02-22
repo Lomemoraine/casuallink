@@ -1,0 +1,6 @@
+2022/02/22-08:13:19.911 4261 Creating DB /home/lorraine/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb since it was missing.
+2022/02/22-08:13:20.193 4261 Reusing MANIFEST /home/lorraine/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/22-08:13:25.544 4261 Level-0 table #5: started
+2022/02/22-08:13:25.811 4261 Level-0 table #5: 1317 bytes OK
+2022/02/22-08:13:25.938 4261 Delete type=0 #3
+2022/02/22-08:13:25.938 4261 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

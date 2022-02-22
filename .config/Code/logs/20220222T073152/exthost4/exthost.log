@@ -1,0 +1,44 @@
+[2022-02-22 09:01:45.931] [exthost] [info] Extension host with pid 19302 started
+[2022-02-22 09:01:45.932] [exthost] [info] Skipping acquiring lock for /home/lorraine/.config/Code/User/workspaceStorage/cb1cde61a6f4db9b8dcd836e4ba05f66.
+[2022-02-22 09:01:46.021] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-22 09:01:46.035] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-22 09:01:46.037] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-22 09:01:46.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-22 09:01:46.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-22 09:01:46.184] [exthost] [info] Eager extensions activated
+[2022-02-22 09:01:46.185] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-22 09:01:46.248] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-22 09:01:46.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-22 09:02:30.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-22 10:13:01.325] [exthost] [error] Error: spawn git ENOENT
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+	at onErrorNT (internal/child_process.js:465:16)
+	at processTicksAndRejections (internal/process/task_queues.js:80:21)
+[2022-02-22 10:27:53.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-22 10:27:53.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-22 10:27:53.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-22 10:33:25.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-22 10:33:30.347] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-22 10:33:44.766] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-22 10:33:44.777] [exthost] [info] Extension host with pid 19302 exiting with code 0
+[2022-02-22 10:33:45.403] [exthost] [info] Extension host with pid 22246 started
+[2022-02-22 10:33:45.403] [exthost] [info] Skipping acquiring lock for /home/lorraine/.config/Code/User/workspaceStorage/d035bb372a15280fb5a05a68014c7447.
+[2022-02-22 10:33:45.429] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-22 10:33:45.459] [exthost] [info] Extension host with pid 22246 exiting with code 0
+[2022-02-22 10:33:45.976] [exthost] [info] Extension host with pid 22259 started
+[2022-02-22 10:33:45.976] [exthost] [info] Skipping acquiring lock for /home/lorraine/.config/Code/User/workspaceStorage/d035bb372a15280fb5a05a68014c7447.
+[2022-02-22 10:33:46.027] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-22 10:33:46.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-22 10:33:46.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-22 10:33:46.411] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+[2022-02-22 10:33:46.414] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-22 10:33:46.417] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-22 10:33:46.429] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-22 10:33:46.443] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-22 10:33:46.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-02-22 10:33:46.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-22 10:33:46.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+[2022-02-22 10:33:46.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-22 10:33:49.590] [exthost] [info] Eager extensions activated
+[2022-02-22 10:33:49.636] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-22 10:33:49.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

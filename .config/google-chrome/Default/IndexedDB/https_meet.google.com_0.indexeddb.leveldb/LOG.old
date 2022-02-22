@@ -1,0 +1,6 @@
+2022/02/22-08:51:29.295 46ff Creating DB /home/lorraine/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb since it was missing.
+2022/02/22-08:51:29.499 46ff Reusing MANIFEST /home/lorraine/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/22-10:02:48.524 4dd2 Level-0 table #5: started
+2022/02/22-10:02:50.957 4dd2 Level-0 table #5: 3828 bytes OK
+2022/02/22-10:02:51.016 4dd2 Delete type=0 #3
+2022/02/22-10:02:51.016 4dd2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

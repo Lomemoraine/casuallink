@@ -1,0 +1,596 @@
+[02/22/22, 10:04:54:169] info: 
+╔════════════════════════════════════════════════════════════════╗
+║      Slack 4.23.0, linux (Store) 5.11.0-27-generic on x64      ║
+╚════════════════════════════════════════════════════════════════╝ 
+[02/22/22, 10:04:54:169] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[02/22/22, 10:04:54:170] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Nairobi",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.23.0",
+  "PACKAGE_MANIFEST.commit": "8c4b013",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/22/22, 10:04:54:204] info: 
+╔════════════════════════════════════════════════════════════════╗
+║      Slack 4.23.0, linux (Store) 5.11.0-27-generic on x64      ║
+╚════════════════════════════════════════════════════════════════╝ 
+[02/22/22, 10:04:54:204] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[02/22/22, 10:04:54:204] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Nairobi",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.23.0",
+  "PACKAGE_MANIFEST.commit": "8c4b013",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/22/22, 10:04:54:558] info: 
+╔════════════════════════════════════════════════════════════════╗
+║      Slack 4.23.0, linux (Store) 5.11.0-27-generic on x64      ║
+╚════════════════════════════════════════════════════════════════╝ 
+[02/22/22, 10:04:54:558] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 7
+}
+[02/22/22, 10:04:54:559] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Nairobi",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.23.0",
+  "PACKAGE_MANIFEST.commit": "8c4b013",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/22/22, 10:04:54:559] info: [METRICS] Starting timers for metrics collection 
+[02/22/22, 10:04:54:559] info: [PERF] setupGantry_w begin 1574ms 
+[02/22/22, 10:04:54:560] info: [APP] free-willy 
+[02/22/22, 10:04:54:560] info: [DATE/TIME] 1645513490631 "2022-02-22T07:04:50.631Z" 
+[02/22/22, 10:04:54:560] info: [VERSION] version_hash: c8b4971c38902f71fafe1a52940c81935d1c3fab 
+[02/22/22, 10:04:54:560] info: [VERSION] version_ts: 1645508247 
+[02/22/22, 10:04:54:560] info: [VERSION] min_version_data_ts: 1628640332 
+[02/22/22, 10:04:54:560] info: [AUTH] authCookieChanged: started listening to the event 
+[02/22/22, 10:04:54:560] info: [AUTH] Credentials are fresh (psc=1645503112, csc=1645503112) 
+[02/22/22, 10:04:54:560] info: [LOCAL-CONFIG] ingestIncomingConfig(): no incoming payload to process; current teams: T0101L740P4:U033MPP6G9E 
+[02/22/22, 10:04:54:560] info: [BOOT] Initial team ID: T0101L740P4 
+[02/22/22, 10:04:54:560] info: [PERF] setupGantry_w took 6.9ms 
+[02/22/22, 10:04:54:560] info: [TRACER] Tracing is not sampled by default for this session. 
+[02/22/22, 10:04:54:560] info: [BOOT] versionTs: 1645508247 versionHash: c8b4971c38902f71fafe1a52940c81935d1c3fab 
+[02/22/22, 10:04:54:561] info: [BOOT] Boot params: {"viewId":"D03404A8ASZ","inviteUserIds":["U02TWEA26UB"]} 
+[02/22/22, 10:04:54:561] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.647 team.info called 
+[02/22/22, 10:04:54:561] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.647 team.info is ENQUEUED 
+[02/22/22, 10:04:54:561] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.652 experiments.getByUser called 
+[02/22/22, 10:04:54:561] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.652 experiments.getByUser is ENQUEUED 
+[02/22/22, 10:04:54:561] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.653 api.features called 
+[02/22/22, 10:04:54:561] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.653 api.features is ENQUEUED 
+[02/22/22, 10:04:54:561] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.654 users.prefs.get called 
+[02/22/22, 10:04:54:561] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.654 users.prefs.get is ENQUEUED 
+[02/22/22, 10:04:54:561] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.654 team.prefs.get called 
+[02/22/22, 10:04:54:561] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.654 team.prefs.get is ENQUEUED 
+[02/22/22, 10:04:54:561] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.647 team.info is ACTIVE 
+[02/22/22, 10:04:54:562] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.652 experiments.getByUser is ACTIVE 
+[02/22/22, 10:04:54:562] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.653 api.features is ACTIVE 
+[02/22/22, 10:04:54:562] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.654 users.prefs.get is ACTIVE 
+[02/22/22, 10:04:54:562] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.654 team.prefs.get is ACTIVE 
+[02/22/22, 10:04:54:562] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.654 team.prefs.get is RESOLVED 
+[02/22/22, 10:04:54:562] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.654 users.prefs.get is RESOLVED 
+[02/22/22, 10:04:54:562] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.647 team.info is RESOLVED 
+[02/22/22, 10:04:54:562] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.653 api.features is RESOLVED 
+[02/22/22, 10:04:54:562] info: [BOOT-QUEUE] T0101L740P4 noversion-1645513490.652 experiments.getByUser is RESOLVED 
+[02/22/22, 10:04:54:562] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[02/22/22, 10:04:54:562] info: [BOOT] Cold boot. 
+[02/22/22, 10:04:54:563] info: [INTER-WINDOW-MESSAGE] (T0101L740P4) Sending requestCallData to the slack window 
+[02/22/22, 10:04:54:563] info: [CALL-WINDOW] (T0101L740P4) Rendering primary call window 
+[02/22/22, 10:04:54:563] info: [TRACER] Tracing is not sampled by default for this team. 
+[02/22/22, 10:04:54:563] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.213 commands.list called with reason: loadSlashCommands 
+[02/22/22, 10:04:54:563] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.213 commands.list is ENQUEUED 
+[02/22/22, 10:04:54:563] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.216 i18n.translations.get called with reason: fetchTranslatedCustomStatusPresets 
+[02/22/22, 10:04:54:563] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.216 i18n.translations.get is ENQUEUED 
+[02/22/22, 10:04:54:563] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.213 commands.list is ACTIVE 
+[02/22/22, 10:04:54:563] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.216 i18n.translations.get is ACTIVE 
+[02/22/22, 10:04:54:563] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[02/22/22, 10:04:54:563] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.247 search.autocomplete.topEmojis called with reason: loadEmoji 
+[02/22/22, 10:04:54:563] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.247 search.autocomplete.topEmojis is ENQUEUED 
+[02/22/22, 10:04:54:563] info: [METRICS] (T0101L740P4) 
+Boot Timings:
+------ | -------- | ----------------------------------------------
+Time   | Duration | Name                                          
+------ | -------- | ----------------------------------------------
+-29ms  |          | intent_to_join_call_from_slack                
+462ms  | (148ms)  | slack-kit-styles.d477424.css                  
+463ms  | (295ms)  | free-willy-boot-styles.73235ba.css            
+465ms  | (145ms)  | helper-styles.6e85b79.css                     
+473ms  |          | start_load                                    
+616ms  | (0ms)    | lato-regular-d9ce515.woff2                    
+617ms  | (0ms)    | lato-bold-4b1dc11.woff2                       
+618ms  | (0ms)    | lato-black-b64f5e4.woff2                      
+659ms  | (695ms)  | gantry-vendors.72a9b8c.min.js                 
+661ms  | (749ms)  | gantry-shared.2a2a12f.min.js                  
+664ms  | (746ms)  | free-willy-boot.bd6a196.min.js                
+842ms  | (0ms)    | slack-icons-v2-fe043a5.woff2                  
+1591ms |          | begin_execute_boot                            
+1603ms |          | begin_execute_boot_call                       
+       | (782ms)  | load_slack_required_data                      
+       | (3294ms) | script_boot_imports                           
+       | (3607ms) | execute_boot_call                             
+1607ms | (565ms)  | gantry-vendors-async.faa0c0a.min.js           
+1607ms | (1143ms) | gantry-vendors-async-free-willy.5c6deba.min.js
+1608ms | (2265ms) | free-willy-boot-imports.26304c9.min.js        
+1669ms | (426ms)  | team.info                                     
+1669ms | (485ms)  | users.info                                    
+1670ms | (703ms)  | experiments.getByUser                         
+1670ms | (426ms)  | api.features                                  
+1671ms | (422ms)  | users.prefs.get                               
+1671ms | (409ms)  | team.prefs.get                                
+1672ms | (500ms)  | users.info                                    
+5171ms |          | free_willy_start_mark                         
+ 
+[02/22/22, 10:04:54:564] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.247 search.autocomplete.topEmojis is ACTIVE 
+[02/22/22, 10:04:54:564] info: [WD] All assets have reported back; s: 9; f: 0 
+[02/22/22, 10:04:54:573] info: [UFM-MEMBERS] (T0101L740P4) requesting U033MPP6G9E,U02TWEA26UB (1) 
+[02/22/22, 10:04:54:615] info: [UFM-MEMBERS] (T0101L740P4) received U033MPP6G9E,U02TWEA26UB (1) 
+[02/22/22, 10:04:54:616] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.549 team.info called with reason: conditional-fetching 
+[02/22/22, 10:04:54:617] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.549 team.info is ENQUEUED 
+[02/22/22, 10:04:54:617] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.549 team.info is ACTIVE 
+[02/22/22, 10:04:54:619] info: [UFM-CHANNELS] (T0101L740P4) requesting D03404A8ASZ (1) 
+[02/22/22, 10:04:54:619] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.556 api.getFlannelHttpUrl called with reason: client-needs-valid-flannel-url 
+[02/22/22, 10:04:54:619] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.556 api.getFlannelHttpUrl is ENQUEUED 
+[02/22/22, 10:04:54:620] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.556 api.getFlannelHttpUrl is ACTIVE 
+[02/22/22, 10:04:54:653] info: [INTER-WINDOW-MESSAGE] (T0101L740P4) Received callData from the slack window 
+[02/22/22, 10:04:54:654] info: [CALL-WINDOW] (T0101L740P4) Rendering primary call window 
+[02/22/22, 10:04:54:657] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.627 screenhero.rooms.info called with reason: active-call-info 
+[02/22/22, 10:04:54:657] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.627 screenhero.rooms.info is ENQUEUED 
+[02/22/22, 10:04:54:684] info: [ROUTES] [ROUTE_ENTITY] Attempting to navigate to new route {"teamId":"T0101L740P4","entityId":"R033WBRA2CW"} 
+[02/22/22, 10:04:54:684] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.627 screenhero.rooms.info is ACTIVE 
+[02/22/22, 10:04:54:684] info: [FREE-WILLY-SDK] (T0101L740P4) user agent: Mozilla/5.0 (X11; Linux x86_64; Ubuntu 20.04.3 LTS focal; Unity) AppleWebKit/537.36 (KHTML, like Gecko) Slack/4.23.0 Chrome/96.0.4664.55 Electron/16.0.4 Safari/537.36 Snap Sonic Slack_SSB/4.23.0 
+[02/22/22, 10:04:54:684] info: [FREE-WILLY-SDK] (T0101L740P4) Version TS: 1645508247 
+[02/22/22, 10:04:54:685] info: [FREE-WILLY-SDK] (T0101L740P4) Version Hash: c8b4971c38902f71fafe1a52940c81935d1c3fab 
+[02/22/22, 10:04:54:685] info: [FREE-WILLY-SDK] (T0101L740P4) Chime SDK Version: 2.17.0 
+[02/22/22, 10:04:54:688] info: [ROUTES] [ROUTE_ENTITY] Navigated to new route 
+[02/22/22, 10:04:54:689] info: [FREE-WILLY-SDK] (T0101L740P4) Voice Focus experiment not enabled 
+[02/22/22, 10:04:54:689] info: [FREE-WILLY-SDK] (T0101L740P4) DefaultDeviceController video dimension 960 x 540 
+[02/22/22, 10:04:54:690] info: [FREE-WILLY-SDK] (T0101L740P4) Supported Constraints in this browser {"aspectRatio":true,"autoGainControl":true,"brightness":true,"channelCount":true,"colorTemperature":true,"contrast":true,"deviceId":true,"echoCancellation":true,"exposureCompensation":true,"exposureMode":true,"exposureTime":true,"facingMode":true,"focusDistance":true,"focusMode":true,"frameRate":true,"groupId":true,"height":true,"iso":true,"latency":true,"noiseSuppression":true,"pan":true,"pointsOfInterest":true,"resizeMode":true,"sampleRate":true,"sampleSize":true,"saturation":true,"sharpness":true,"tilt":true,"torch":true,"whiteBalanceMode":true,"width":true,"zoom":true} 
+[02/22/22, 10:04:54:690] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultDeviceController/setDeviceLabelTrigger 
+[02/22/22, 10:04:54:691] info: [FREE-WILLY-SDK] (T0101L740P4) browser is chrome 96 (96.0.4664) 
+[02/22/22, 10:04:54:691] info: [FREE-WILLY-SDK] (T0101L740P4) WebRTC unified plan for Chromium-based browsers is enabled 
+[02/22/22, 10:04:54:724] info: [FREE-WILLY-SDK] (T0101L740P4) adding meeting observer 
+[02/22/22, 10:04:54:725] info: [FREE-WILLY-SDK] (T0101L740P4) adding device change observer 
+[02/22/22, 10:04:54:736] info: [FREE-WILLY-SDK] (T0101L740P4) Starting devicechange listener. 
+[02/22/22, 10:04:54:736] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultDeviceController/addDeviceChangeObserver 
+[02/22/22, 10:04:54:736] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/addDeviceChangeObserver 
+[02/22/22, 10:04:54:736] info: [DEVICES] (T0101L740P4) Noise suppression setting: true 
+[02/22/22, 10:04:54:738] info: [STATS-MANAGER] (T0101L740P4) Capturing app metrics?: true, HW concurrency: 4 
+[02/22/22, 10:04:54:738] info: [HUDDLE-TRACE-MANAGER] Huddle Trace Manager created 
+[02/22/22, 10:04:54:738] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/addContentShareObserver 
+[02/22/22, 10:04:54:738] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeSubscribeToAttendeeIdPresence 
+[02/22/22, 10:04:54:739] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeSubscribeToLocalSignalStrengthChange 
+[02/22/22, 10:04:54:739] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeSubscribeToMuteAndUnmuteLocalAudio 
+[02/22/22, 10:04:54:739] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeSubscribeToSetCanUnmuteLocalAudio 
+[02/22/22, 10:04:54:739] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/subscribeToActiveSpeakerDetector 
+[02/22/22, 10:04:54:739] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeSubscribeToReceiveDataMessage 
+[02/22/22, 10:04:54:739] info: [FREE-WILLY-SDK] (T0101L740P4) adding meeting observer 
+[02/22/22, 10:04:54:740] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/addObserver 
+[02/22/22, 10:04:54:740] info: [FREE-WILLY-SDK] (T0101L740P4) transitioning from NotConnected to Connecting with Connect 
+[02/22/22, 10:04:54:740] info: [FREE-WILLY-SDK] (T0101L740P4) Needs to wait for attendee presence? false 
+[02/22/22, 10:04:54:740] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b 
+[02/22/22, 10:04:54:741] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b running subtask AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/MonitorTask (once) 
+[02/22/22, 10:04:54:741] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/MonitorTask waiting for dependencies:  
+[02/22/22, 10:04:54:741] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/start 
+[02/22/22, 10:04:54:751] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/MonitorTask 
+[02/22/22, 10:04:54:752] info: [FREE-WILLY-SDK] (T0101L740P4) adding meeting observer 
+[02/22/22, 10:04:54:752] info: [FREE-WILLY-SDK] (T0101L740P4) adding a ping-pong observer 
+[02/22/22, 10:04:54:752] info: [FREE-WILLY-SDK] (T0101L740P4) adding meeting observer 
+[02/22/22, 10:04:54:752] info: [FREE-WILLY-SDK] (T0101L740P4) Starting DefaultStatsCollector 
+[02/22/22, 10:04:54:752] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/MonitorTask took 2 ms 
+[02/22/22, 10:04:54:752] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b completed subtask AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/MonitorTask (once) 
+[02/22/22, 10:04:54:753] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b running subtask AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms 
+[02/22/22, 10:04:54:753] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms 
+[02/22/22, 10:04:54:753] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer 
+[02/22/22, 10:04:54:753] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer running subtask AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer/SubscribeAndReceiveSubscribeAckTask (once) 
+[02/22/22, 10:04:54:753] info: [FREE-WILLY-SDK] (T0101L740P4) Signaling waiting for dependencies:  
+[02/22/22, 10:04:54:753] info: [FREE-WILLY-SDK] (T0101L740P4) CreatePeerConnectionTask waiting for dependencies: Signaling (once) 
+[02/22/22, 10:04:54:754] info: [FREE-WILLY-SDK] (T0101L740P4) ReceiveAudioInputTask waiting for dependencies:  
+[02/22/22, 10:04:54:754] info: [FREE-WILLY-SDK] (T0101L740P4) AttachMediaInputTask waiting for dependencies: CreatePeerConnectionTask (once), ReceiveAudioInputTask (once) 
+[02/22/22, 10:04:54:754] info: [FREE-WILLY-SDK] (T0101L740P4) CreateSDPTask waiting for dependencies: AttachMediaInputTask (once) 
+[02/22/22, 10:04:54:754] info: [FREE-WILLY-SDK] (T0101L740P4) SetLocalDescriptionTask waiting for dependencies: CreateSDPTask (once) 
+[02/22/22, 10:04:54:754] info: [FREE-WILLY-SDK] (T0101L740P4) FinishGatheringICECandidatesTask waiting for dependencies: SetLocalDescriptionTask (once) 
+[02/22/22, 10:04:54:754] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer/SubscribeAndReceiveSubscribeAckTask waiting for dependencies: FinishGatheringICECandidatesTask (once) 
+[02/22/22, 10:04:54:755] info: [FREE-WILLY-SDK] (T0101L740P4) running task Signaling 
+[02/22/22, 10:04:54:755] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling running subtask Signaling/Timeout15000ms (once) 
+[02/22/22, 10:04:54:759] info: [FREE-WILLY-SDK] (T0101L740P4) Signaling/Timeout15000ms waiting for dependencies:  
+[02/22/22, 10:04:54:759] info: [FREE-WILLY-SDK] (T0101L740P4) running task ReceiveAudioInputTask 
+[02/22/22, 10:04:54:760] info: [FREE-WILLY-SDK] (T0101L740P4) no audio device chosen, creating empty audio device 
+[02/22/22, 10:04:54:760] info: [FREE-WILLY-SDK] (T0101L740P4) requesting new audio device with constraint null 
+[02/22/22, 10:04:54:802] info: [FREE-WILLY-SDK] (T0101L740P4) got audio device for constraints null 
+[02/22/22, 10:04:54:802] info: [FREE-WILLY-SDK] (T0101L740P4) checking whether existing audio input device can be reused 
+[02/22/22, 10:04:54:802] info: [FREE-WILLY-SDK] (T0101L740P4) reusing existing audio input device 
+[02/22/22, 10:04:54:802] info: [FREE-WILLY-SDK] (T0101L740P4) running task Signaling/Timeout15000ms 
+[02/22/22, 10:04:54:803] info: [FREE-WILLY-SDK] (T0101L740P4) running task Signaling/Timeout15000ms/OpenSignalingConnectionTask 
+[02/22/22, 10:04:54:803] info: [FREE-WILLY-SDK] (T0101L740P4) adding connection request to queue: wss://signal.m2.ew2.app.chime.aws/control/9375ddc4-e622-4940-83d0-22869c610706?X-Chime-Control-Protocol-Version=3&X-Amzn-Chime-Send-Close-On-Error=1 
+[02/22/22, 10:04:54:803] info: [FREE-WILLY-SDK] (T0101L740P4) no existing connection needs closing 
+[02/22/22, 10:04:54:803] info: [FREE-WILLY-SDK] (T0101L740P4) opening connection to wss://signal.m2.ew2.app.chime.aws/control/9375ddc4-e622-4940-83d0-22869c610706?X-Chime-Control-Protocol-Version=3&X-Amzn-Chime-Send-Close-On-Error=1 
+[02/22/22, 10:04:54:803] info: [FREE-WILLY-SDK] (T0101L740P4) notifying event: WebSocketConnecting 
+[02/22/22, 10:04:54:803] info: [FREE-WILLY-SDK] (T0101L740P4) cannot replace audio track due to: no active meeting and peer connection 
+[02/22/22, 10:04:54:804] info: [FREE-WILLY-SDK] (T0101L740P4) ReceiveAudioInputTask took 33 ms 
+[02/22/22, 10:04:54:866] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.216 i18n.translations.get is RESOLVED 
+[02/22/22, 10:04:54:875] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.213 commands.list is RESOLVED 
+[02/22/22, 10:04:54:875] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.247 search.autocomplete.topEmojis is RESOLVED 
+[02/22/22, 10:04:54:878] info: [FREE-WILLY-AV] (T0101L740P4) Starting Chime session 
+[02/22/22, 10:04:54:883] info: [DEVICES] (T0101L740P4) DeviceManager::audioInputMuteStateChanged: device: WebAudio-8ee81129-3e76-4499-8b19-386a00c6b3c6, unmuted 
+[02/22/22, 10:04:55:159] info: [HOST-DRAW-WINDOW] (T0101L740P4) Host draw window mounted 
+[02/22/22, 10:04:55:515] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultDeviceController/listAudioInputDevices false -> [{"deviceId":"default","kind":"audioinput","label":"Default","groupId":"e2f0b54641cd46997510a45c29f26d05a2a971770ab92bf52aa0b241949ebab6"},{"deviceId":"0669e3fabdd5efb02d8c21ced9a9e822072297e58d4452d59828d44f38645ed2","kind":"audioinput","label":"Built-in Audio Analog Stereo","groupId":"b1558fe87a6cc02236babb3bab31fefa77307f7921a9aff6264c49c2c4fff0f6"}] 
+[02/22/22, 10:04:55:519] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/listAudioInputDevices false -> [{"deviceId":"default","kind":"audioinput","label":"Default","groupId":"e2f0b54641cd46997510a45c29f26d05a2a971770ab92bf52aa0b241949ebab6"},{"deviceId":"0669e3fabdd5efb02d8c21ced9a9e822072297e58d4452d59828d44f38645ed2","kind":"audioinput","label":"Built-in Audio Analog Stereo","groupId":"b1558fe87a6cc02236babb3bab31fefa77307f7921a9aff6264c49c2c4fff0f6"}] 
+[02/22/22, 10:04:55:521] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultDeviceController/listAudioOutputDevices false -> [{"deviceId":"default","kind":"audiooutput","label":"Default","groupId":"default"},{"deviceId":"8742149aca5da4e15bdebb2ea4902b48498af56a41fb7f0065385456c1ae9fdc","kind":"audiooutput","label":"Built-in Audio Analog Stereo","groupId":"b1558fe87a6cc02236babb3bab31fefa77307f7921a9aff6264c49c2c4fff0f6"}] 
+[02/22/22, 10:04:55:522] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/listAudioOutputDevices false -> [{"deviceId":"default","kind":"audiooutput","label":"Default","groupId":"default"},{"deviceId":"8742149aca5da4e15bdebb2ea4902b48498af56a41fb7f0065385456c1ae9fdc","kind":"audiooutput","label":"Built-in Audio Analog Stereo","groupId":"b1558fe87a6cc02236babb3bab31fefa77307f7921a9aff6264c49c2c4fff0f6"}] 
+[02/22/22, 10:04:55:523] info: [FREE-WILLY-SDK] (T0101L740P4) Device change event callback is triggered 
+[02/22/22, 10:04:55:533] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultDeviceController/listVideoInputDevices false -> [{"deviceId":"ec3706b491aa72a3a4bf965319d4c5fd1629689484580b8635031c198513d69c","kind":"videoinput","label":"HP HD Camera (04ca:7054)","groupId":"5be456e44b3b873f9f50f56d103c229484c7304988c97a91ba6a2b6d7a2eb86a"}] 
+[02/22/22, 10:04:55:533] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/listVideoInputDevices false -> [{"deviceId":"ec3706b491aa72a3a4bf965319d4c5fd1629689484580b8635031c198513d69c","kind":"videoinput","label":"HP HD Camera (04ca:7054)","groupId":"5be456e44b3b873f9f50f56d103c229484c7304988c97a91ba6a2b6d7a2eb86a"}] 
+[02/22/22, 10:04:55:547] info: [DEVICES] (T0101L740P4) camera devices:
+---------------------------------------------------------------- | ------------------------
+id                                                               | label                   
+---------------------------------------------------------------- | ------------------------
+ec3706b491aa72a3a4bf965319d4c5fd1629689484580b8635031c198513d69c | HP HD Camera (04ca:7054)
+ 
+[02/22/22, 10:04:55:549] info: [DEVICES] (T0101L740P4) microphone devices:
+---------------------------------------------------------------- | ----------------------------
+id                                                               | label                       
+---------------------------------------------------------------- | ----------------------------
+default                                                          | Default                     
+0669e3fabdd5efb02d8c21ced9a9e822072297e58d4452d59828d44f38645ed2 | Built-in Audio Analog Stereo
+ 
+[02/22/22, 10:04:55:550] info: [DEVICES] (T0101L740P4) output devices:
+---------------------------------------------------------------- | ----------------------------
+id                                                               | label                       
+---------------------------------------------------------------- | ----------------------------
+default                                                          | Default                     
+8742149aca5da4e15bdebb2ea4902b48498af56a41fb7f0065385456c1ae9fdc | Built-in Audio Analog Stereo
+ 
+[02/22/22, 10:04:55:704] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.549 team.info is RESOLVED 
+[02/22/22, 10:04:55:705] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.556 api.getFlannelHttpUrl is RESOLVED 
+[02/22/22, 10:04:55:709] info: [API-Q] (T0101L740P4) c8b4971c-1645513494.627 screenhero.rooms.info is RESOLVED 
+[02/22/22, 10:04:55:714] info: [API-Q] (T0101L740P4) noversion-1645513495.713 Flannel channels/info called with reason: flannel-call:channels/info 
+[02/22/22, 10:04:55:714] info: [API-Q] (T0101L740P4) noversion-1645513495.713 Flannel channels/info is ENQUEUED 
+[02/22/22, 10:04:55:714] info: [API-Q] (T0101L740P4) noversion-1645513495.714 Flannel users/info called with reason: flannel-call:users/info 
+[02/22/22, 10:04:55:715] info: [API-Q] (T0101L740P4) noversion-1645513495.714 Flannel users/info is ENQUEUED 
+[02/22/22, 10:04:55:717] info: [API-Q] (T0101L740P4) noversion-1645513495.713 Flannel channels/info is ACTIVE 
+[02/22/22, 10:04:55:717] info: [API-Q] (T0101L740P4) noversion-1645513495.714 Flannel users/info is ACTIVE 
+[02/22/22, 10:04:55:973] info: [API-Q] (T0101L740P4) noversion-1645513495.713 Flannel channels/info is RESOLVED 
+[02/22/22, 10:04:55:975] info: [API-Q] (T0101L740P4) noversion-1645513495.714 Flannel users/info is RESOLVED 
+[02/22/22, 10:04:55:985] info: [API-Q] (T0101L740P4) c8b4971c-1645513495.983 conversations.genericInfo called with reason: fallback:UnknownFetchManager 
+[02/22/22, 10:04:55:986] info: [API-Q] (T0101L740P4) c8b4971c-1645513495.983 conversations.genericInfo is ENQUEUED 
+[02/22/22, 10:04:55:990] info: [API-Q] (T0101L740P4) c8b4971c-1645513495.983 conversations.genericInfo is ACTIVE 
+[02/22/22, 10:04:56:296] info: [FREE-WILLY-SDK] (T0101L740P4) notifying event: WebSocketOpen 
+[02/22/22, 10:04:56:302] info: [FREE-WILLY-SDK] (T0101L740P4) Opening signaling connection took 1521 ms 
+[02/22/22, 10:04:56:302] info: [FREE-WILLY-SDK] (T0101L740P4) Signaling/Timeout15000ms/OpenSignalingConnectionTask took 1524 ms 
+[02/22/22, 10:04:56:303] info: [FREE-WILLY-SDK] (T0101L740P4) timeout task Signaling/Timeout15000ms completed 
+[02/22/22, 10:04:56:304] info: [FREE-WILLY-SDK] (T0101L740P4) Signaling/Timeout15000ms took 1524 ms 
+[02/22/22, 10:04:56:305] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling completed subtask Signaling/Timeout15000ms (once) 
+[02/22/22, 10:04:56:305] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling running subtask Signaling/ListenForVolumeIndicatorsTask 
+[02/22/22, 10:04:56:306] info: [FREE-WILLY-SDK] (T0101L740P4) running task Signaling/ListenForVolumeIndicatorsTask 
+[02/22/22, 10:04:56:308] info: [FREE-WILLY-SDK] (T0101L740P4) Signaling/ListenForVolumeIndicatorsTask took 1 ms 
+[02/22/22, 10:04:56:311] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling completed subtask Signaling/ListenForVolumeIndicatorsTask 
+[02/22/22, 10:04:56:311] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling running subtask Signaling/SendAndReceiveDataMessagesTask 
+[02/22/22, 10:04:56:312] info: [FREE-WILLY-SDK] (T0101L740P4) running task Signaling/SendAndReceiveDataMessagesTask 
+[02/22/22, 10:04:56:313] info: [FREE-WILLY-SDK] (T0101L740P4) Signaling/SendAndReceiveDataMessagesTask took 1 ms 
+[02/22/22, 10:04:56:313] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling completed subtask Signaling/SendAndReceiveDataMessagesTask 
+[02/22/22, 10:04:56:313] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling running subtask Signaling/JoinAndReceiveIndexTask 
+[02/22/22, 10:04:56:314] info: [FREE-WILLY-SDK] (T0101L740P4) running task Signaling/JoinAndReceiveIndexTask 
+[02/22/22, 10:04:56:314] info: [FREE-WILLY-SDK] (T0101L740P4) sending join 
+[02/22/22, 10:04:56:485] info: [API-Q] (T0101L740P4) c8b4971c-1645513495.983 conversations.genericInfo is RESOLVED 
+[02/22/22, 10:04:56:489] info: [UFM-CHANNELS] (T0101L740P4) received D03404A8ASZ (1) 
+[02/22/22, 10:04:56:565] info: [FREE-WILLY-SDK] (T0101L740P4) local clock skew estimate=-492ms from ping-pong time=267ms 
+[02/22/22, 10:04:56:570] info: [FREE-WILLY-SDK] (T0101L740P4) received first index {"atCapacity":false,"numParticipants":1} 
+[02/22/22, 10:04:56:571] info: [FREE-WILLY-SDK] (T0101L740P4) Signaling/JoinAndReceiveIndexTask took 265 ms 
+[02/22/22, 10:04:56:572] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling completed subtask Signaling/JoinAndReceiveIndexTask 
+[02/22/22, 10:04:56:573] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling running subtask Signaling/ReceiveTURNCredentialsTask 
+[02/22/22, 10:04:56:573] info: [FREE-WILLY-SDK] (T0101L740P4) running task Signaling/ReceiveTURNCredentialsTask 
+[02/22/22, 10:04:56:574] info: [FREE-WILLY-SDK] (T0101L740P4) TURN credentials available, skipping credentials fetch 
+[02/22/22, 10:04:56:574] info: [FREE-WILLY-SDK] (T0101L740P4) Signaling/ReceiveTURNCredentialsTask took 2 ms 
+[02/22/22, 10:04:56:576] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling completed subtask Signaling/ReceiveTURNCredentialsTask 
+[02/22/22, 10:04:56:577] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling running subtask Signaling/ReceiveVideoStreamIndexTask 
+[02/22/22, 10:04:56:578] info: [FREE-WILLY-SDK] (T0101L740P4) running task Signaling/ReceiveVideoStreamIndexTask 
+[02/22/22, 10:04:56:579] info: [FREE-WILLY-SDK] (T0101L740P4) should resubscribe: false (downlink: false uplink: false) 
+[02/22/22, 10:04:56:580] info: [FREE-WILLY-SDK] (T0101L740P4) Signaling/ReceiveVideoStreamIndexTask took 4 ms 
+[02/22/22, 10:04:56:581] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling completed subtask Signaling/ReceiveVideoStreamIndexTask 
+[02/22/22, 10:04:56:582] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task Signaling completed 
+[02/22/22, 10:04:56:583] info: [FREE-WILLY-SDK] (T0101L740P4) Signaling took 1833 ms 
+[02/22/22, 10:04:56:583] info: [FREE-WILLY-SDK] (T0101L740P4) running task CreatePeerConnectionTask 
+[02/22/22, 10:04:56:584] info: [FREE-WILLY-SDK] (T0101L740P4) SDP semantics are unified-plan 
+[02/22/22, 10:04:56:585] info: [FREE-WILLY-SDK] (T0101L740P4) creating new peer connection 
+[02/22/22, 10:04:56:765] info: [FREE-WILLY-SDK] (T0101L740P4) CreatePeerConnectionTask took 187 ms 
+[02/22/22, 10:04:56:766] info: [FREE-WILLY-SDK] (T0101L740P4) running task AttachMediaInputTask 
+[02/22/22, 10:04:56:767] info: [FREE-WILLY-SDK] (T0101L740P4) attaching audio track to peer connection (unified-plan) 
+[02/22/22, 10:04:56:768] info: [FREE-WILLY-SDK] (T0101L740P4) peer connection negotiation is needed 
+[02/22/22, 10:04:56:771] info: [FREE-WILLY-SDK] (T0101L740P4) no video track 
+[02/22/22, 10:04:56:771] info: [FREE-WILLY-SDK] (T0101L740P4) AttachMediaInputTask took 6 ms 
+[02/22/22, 10:04:56:772] info: [FREE-WILLY-SDK] (T0101L740P4) running task CreateSDPTask 
+[02/22/22, 10:04:56:772] info: [FREE-WILLY-SDK] (T0101L740P4) uses video: false (enabled: true, sending: false, receiving: false) 
+[02/22/22, 10:04:56:772] info: [FREE-WILLY-SDK] (T0101L740P4) peer connection offerOptions: {"offerToReceiveAudio":true,"offerToReceiveVideo":false} 
+[02/22/22, 10:04:56:777] info: [FREE-WILLY-SDK] (T0101L740P4) peer connection created offer 
+[02/22/22, 10:04:56:777] info: [FREE-WILLY-SDK] (T0101L740P4) CreateSDPTask took 6 ms 
+[02/22/22, 10:04:56:777] info: [FREE-WILLY-SDK] (T0101L740P4) running task SetLocalDescriptionTask 
+[02/22/22, 10:04:56:789] info: [FREE-WILLY-SDK] (T0101L740P4) set local description 
+[02/22/22, 10:04:56:789] info: [FREE-WILLY-SDK] (T0101L740P4) SetLocalDescriptionTask took 11 ms 
+[02/22/22, 10:04:56:789] info: [FREE-WILLY-SDK] (T0101L740P4) running task FinishGatheringICECandidatesTask 
+[02/22/22, 10:04:56:789] info: [FREE-WILLY-SDK] (T0101L740P4) peer connection ice gathering state changed: gathering 
+[02/22/22, 10:04:57:353] info: [FREE-WILLY-SDK] (T0101L740P4) peer connection ice candidate: candidate:2309868903 1 udp 41885695 10.2.24.71 57564 typ relay raddr 0.0.0.0 rport 0 generation 0 ufrag A/kg network-id 1 network-cost 10 
+[02/22/22, 10:04:57:353] info: [FREE-WILLY-SDK] (T0101L740P4) ice candidate: candidate:2309868903 1 udp 41885695 10.2.24.71 57564 typ relay raddr 0.0.0.0 rport 0 generation 0 ufrag A/kg network-id 1 network-cost 10 state: gathering 
+[02/22/22, 10:04:57:354] info: [FREE-WILLY-SDK] (T0101L740P4) gathered at least one relay candidate 
+[02/22/22, 10:04:57:355] info: [FREE-WILLY-SDK] (T0101L740P4) FinishGatheringICECandidatesTask took 565 ms 
+[02/22/22, 10:04:57:356] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer/SubscribeAndReceiveSubscribeAckTask 
+[02/22/22, 10:04:57:364] info: [FREE-WILLY-SDK] (T0101L740P4) sending subscribe: {"attendeeId":"d17a11f5-3c21-6474-803c-8752f3e54d3b","sdpOffer":"v=0\r\no=mozilla-chrome 1996346759125597745 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS fb2311b2-7101-46d3-8f42-ca28db624fb7\r\nm=audio 57564 UDP/TLS/RTP/SAVPF 111 63 103 104 9 0 8 106 105 13 110 112 113 126\r\nc=IN IP4 10.2.24.71\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=candidate:2309868903 1 udp 41885695 10.2.24.71 57564 typ relay raddr 0.0.0.0 rport 0 generation 0 network-id 1 network-cost 10\r\na=ice-ufrag:A/kg\r\na=ice-pwd:kuUFFYPT3V1vfLI7scCsgUCL\r\na=ice-options:trickle\r\na=fingerprint:sha-256 FA:D7:1D:5B:5E:B4:9F:A0:B7:F2:5D:10:93:98:E9:AC:1B:80:35:7D:7D:33:44:6C:9E:25:44:F8:FC:B9:98:AD\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=sendrecv\r\na=msid:fb2311b2-7101-46d3-8f42-ca28db624fb7 720afbba-6b43-43d4-927f-1c16caee42f9\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:106 CN/32000\r\na=rtpmap:105 CN/16000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:688326349 cname:q6wALU8ouXPUC3Il\r\na=ssrc:688326349 msid:fb2311b2-7101-46d3-8f42-ca28db624fb7 720afbba-6b43-43d4-927f-1c16caee42f9\r\na=ssrc:688326349 mslabel:fb2311b2-7101-46d3-8f42-ca28db624fb7\r\na=ssrc:688326349 label:720afbba-6b43-43d4-927f-1c16caee42f9\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 35 36 120 119 124\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:A/kg\r\na=ice-pwd:kuUFFYPT3V1vfLI7scCsgUCL\r\na=ice-options:trickle\r\na=fingerprint:sha-256 FA:D7:1D:5B:5E:B4:9F:A0:B7:F2:5D:10:93:98:E9:AC:1B:80:35:7D:7D:33:44:6C:9E:25:44:F8:FC:B9:98:AD\r\na=setup:actpass\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:13 urn:3gpp:video-orientation\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=inactive\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:102 H264/90000\r\na=rtcp-fb:102 goog-remb\r\na=rtcp-fb:102 transport-cc\r\na=rtcp-fb:102 ccm fir\r\na=rtcp-fb:102 nack\r\na=rtcp-fb:102 nack pli\r\na=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:122 rtx/90000\r\na=fmtp:122 apt=102\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:35 AV1/90000\r\na=rtcp-fb:35 goog-remb\r\na=rtcp-fb:35 transport-cc\r\na=rtcp-fb:35 ccm fir\r\na=rtcp-fb:35 nack\r\na=rtcp-fb:35 nack pli\r\na=rtpmap:36 rtx/90000\r\na=fmtp:36 apt=35\r\na=rtpmap:120 red/90000\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=120\r\na=rtpmap:124 ulpfec/90000\r\n","audioHost":"471e9bd9f29473ff076d5b1edc2ebe44.k.m2.ew2.app.chime.aws:22466","audioMuted":false,"audioCheckin":false,"receiveStreamIds":[0],"localVideoEnabled":false,"videoStreamDescriptions":[{"groupId":2,"streamId":2,"ssrc":0,"trackLabel":"AmazonChimeExpressVideo","maxBitrateKbps":0,"maxFrameRate":0,"timeEnabled":0,"disabledByWebRTC":false,"disabledByUplinkPolicy":false}],"connectionTypeHasVideo":true} 
+[02/22/22, 10:04:57:584] info: [FREE-WILLY-SDK] (T0101L740P4) got subscribe ack: {"duplex":"RX","allocations":[{"trackLabel":"","streamId":1,"groupId":1}],"sdpAnswer":"v=0\r\no=- 0 0 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS *\r\nm=audio 16468 UDP/TLS/RTP/SAVPF 111\r\nc=IN IP4 18.170.229.20\r\na=rtcp:16468 IN IP4 18.170.229.20\r\na=candidate:Sa025fde 1 udp 1862270975 18.170.229.20 16468 typ srflx raddr 10.2.95.222 rport 16468 generation 0\r\na=candidate:Sa025fde 2 udp 1862270975 18.170.229.20 16468 typ srflx raddr 10.2.95.222 rport 16468 generation 0\r\na=candidate:Ha025fde 1 udp 1694498815 10.2.95.222 16468 typ host generation 0\r\na=candidate:Ha025fde 2 udp 1694498815 10.2.95.222 16468 typ host generation 0\r\na=ice-ufrag:4cb9b9c7158135822429edc123886fc4\r\na=ice-pwd:068310a01db144a575eb170032803944\r\na=fingerprint:sha-256 9B:2A:26:5E:B8:BA:97:5E:C3:A3:18:27:E7:4B:3E:C8:D0:1A:2A:9B:41:AC:50:34:35:BD:E1:3D:3F:D0:D1:A1\r\na=setup:passive\r\na=mid:0\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=sendrecv\r\na=msid:audio audio\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:111 opus/48000/2\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=ssrc:3054405710 cname:VuWdh0yDQEntAk02\r\nm=video 9 UDP/TLS/RTP/SAVPF 125 107\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:4cb9b9c7158135822429edc123886fc4\r\na=ice-pwd:068310a01db144a575eb170032803944\r\na=fingerprint:sha-256 9B:2A:26:5E:B8:BA:97:5E:C3:A3:18:27:E7:4B:3E:C8:D0:1A:2A:9B:41:AC:50:34:35:BD:E1:3D:3F:D0:D1:A1\r\na=setup:passive\r\na=mid:1\r\na=extmap:14 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id\r\na=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=inactive\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=125\r\n"} 
+[02/22/22, 10:04:57:585] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer/SubscribeAndReceiveSubscribeAckTask took 231 ms 
+[02/22/22, 10:04:57:585] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer completed subtask AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer/SubscribeAndReceiveSubscribeAckTask (once) 
+[02/22/22, 10:04:57:586] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer running subtask AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer/SetRemoteDescriptionTask 
+[02/22/22, 10:04:57:586] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer/SetRemoteDescriptionTask 
+[02/22/22, 10:04:57:589] info: [FREE-WILLY-SDK] (T0101L740P4) processed remote description is >>>v=0
+o=- 0 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0 1
+a=extmap-allow-mixed
+a=msid-semantic: WMS *
+m=audio 16468 UDP/TLS/RTP/SAVPF 111
+c=IN IP4 18.170.229.20
+a=rtcp:16468 IN IP4 18.170.229.20
+a=candidate:Ha025fde 1 udp 1694498815 10.2.95.222 16468 typ host generation 0
+a=candidate:Ha025fde 2 udp 1694498815 10.2.95.222 16468 typ host generation 0
+a=ice-ufrag:4cb9b9c7158135822429edc123886fc4
+a=ice-pwd:068310a01db144a575eb170032803944
+a=fingerprint:sha-256 9B:2A:26:5E:B8:BA:97:5E:C3:A3:18:27:E7:4B:3E:C8:D0:1A:2A:9B:41:AC:50:34:35:BD:E1:3D:3F:D0:D1:A1
+a=setup:passive
+a=mid:0
+a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=sendrecv
+a=msid:audio audio
+a=rtcp-mux
+a=rtcp-rsize
+a=rtpmap:111 opus/48000/2
+a=fmtp:111 minptime=10;useinbandfec=1
+a=ssrc:3054405710 cname:VuWdh0yDQEntAk02
+m=video 9 UDP/TLS/RTP/SAVPF 125 107
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:4cb9b9c7158135822429edc123886fc4
+a=ice-pwd:068310a01db144a575eb170032803944
+a=fingerprint:sha-256 9B:2A:26:5E:B8:BA:97:5E:C3:A3:18:27:E7:4B:3E:C8:D0:1A:2A:9B:41:AC:50:34:35:BD:E1:3D:3F:D0:D1:A1
+a=setup:passive
+a=mid:1
+a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
+a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
+a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
+a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
+a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
+a=inactive
+a=rtcp-mux
+a=rtcp-rsize
+a=rtpmap:125 H264/90000
+a=rtcp-fb:125 transport-cc
+a=rtcp-fb:125 ccm fir
+a=rtcp-fb:125 nack
+a=rtcp-fb:125 goog-remb
+a=rtcp-fb:125 nack pli
+a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
+a=rtpmap:107 rtx/90000
+a=fmtp:107 apt=125
+<<< 
+[02/22/22, 10:04:57:593] info: [FREE-WILLY-SDK] (T0101L740P4) received new index {"atCapacity":false,"numParticipants":1} 
+[02/22/22, 10:04:57:594] info: [FREE-WILLY-SDK] (T0101L740P4) should resubscribe: false (downlink: false uplink: false) 
+[02/22/22, 10:04:57:620] info: [FREE-WILLY-SDK] (T0101L740P4) peer connection ice connection state changed: checking 
+[02/22/22, 10:04:57:634] info: [FREE-WILLY-SDK] (T0101L740P4) received track event: kind=audio id=6f1ee9f2-0ab4-4b60-83de-cbe7f99063cd label=6f1ee9f2-0ab4-4b60-83de-cbe7f99063cd 
+[02/22/22, 10:04:57:634] info: [FREE-WILLY-SDK] (T0101L740P4) set remote description, waiting for ICE connection 
+[02/22/22, 10:04:57:635] info: [FREE-WILLY-SDK] (T0101L740P4) peer connection state changed: connecting 
+[02/22/22, 10:04:57:789] info: [FREE-WILLY-SDK] (T0101L740P4) peer connection ice connection state changed: connected 
+[02/22/22, 10:04:57:791] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer/SetRemoteDescriptionTask took 203 ms 
+[02/22/22, 10:04:57:792] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer completed subtask AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer/SetRemoteDescriptionTask 
+[02/22/22, 10:04:57:795] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer completed 
+[02/22/22, 10:04:57:795] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/Peer took 3045 ms 
+[02/22/22, 10:04:57:796] info: [FREE-WILLY-SDK] (T0101L740P4) timeout task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms completed 
+[02/22/22, 10:04:57:796] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms took 3045 ms 
+[02/22/22, 10:04:57:797] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b completed subtask AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms 
+[02/22/22, 10:04:57:798] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b completed 
+[02/22/22, 10:04:57:798] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoStart/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b took 3058 ms 
+[02/22/22, 10:04:57:799] info: [FREE-WILLY-SDK] (T0101L740P4) transitioning from Connecting to Connected with FinishConnecting 
+[02/22/22, 10:04:57:799] info: [FREE-WILLY-SDK] (T0101L740P4) start completed 
+[02/22/22, 10:04:57:803] info: [FREE-WILLY-SDK] (T0101L740P4) peer connection ice gathering state changed: complete 
+[02/22/22, 10:04:57:803] info: [FREE-WILLY-SDK] (T0101L740P4) peer connection ice candidate: (null) 
+[02/22/22, 10:04:57:804] info: [FREE-WILLY-AV] (T0101L740P4) Chime audio video session started 
+[02/22/22, 10:04:57:804] info: [DEVICES] (T0101L740P4) Selected audio input device: Default, deviceId: default, deviceLabel: Default 
+[02/22/22, 10:04:57:805] info: [DEVICES] (T0101L740P4) Noise suppression disabled on Linux:  Default 
+[02/22/22, 10:04:57:805] info: [DEVICES] (T0101L740P4) Noise suppression: disabled 
+[02/22/22, 10:04:57:806] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/chooseAudioInputDevice {"autoGainControl":true,"deviceId":"default","noiseSuppression":true} 
+[02/22/22, 10:04:57:806] info: [FREE-WILLY-SDK] (T0101L740P4) Choosing intrinsic audio input device [object Object] 
+[02/22/22, 10:04:57:807] info: [FREE-WILLY-SDK] (T0101L740P4) requesting new audio device with constraint {"audio":{"echoCancellation":true,"googEchoCancellation":true,"googEchoCancellation2":true,"googAutoGainControl":true,"googAutoGainControl2":true,"googNoiseSuppression":true,"googNoiseSuppression2":true,"googHighpassFilter":true,"autoGainControl":true,"deviceId":"default","noiseSuppression":true}} 
+[02/22/22, 10:04:57:807] info: [DEVICES] (T0101L740P4) Selected audio output device id: Default, deviceId: default, deviceLabel: Default 
+[02/22/22, 10:04:57:807] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/chooseAudioOutputDevice "default" 
+[02/22/22, 10:04:57:808] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultDeviceController/chooseAudioOutputDevice "default" -> null 
+[02/22/22, 10:04:57:887] info: [FREE-WILLY-SDK] (T0101L740P4) got audio device for constraints {"audio":{"echoCancellation":true,"googEchoCancellation":true,"googEchoCancellation2":true,"googAutoGainControl":true,"googAutoGainControl2":true,"googNoiseSuppression":true,"googNoiseSuppression2":true,"googHighpassFilter":true,"autoGainControl":true,"deviceId":"default","noiseSuppression":true}} 
+[02/22/22, 10:04:57:887] info: [FREE-WILLY-SDK] (T0101L740P4) checking whether existing audio input device can be reused 
+[02/22/22, 10:04:57:887] info: [FREE-WILLY-SDK] (T0101L740P4) reusing existing audio input device 
+[02/22/22, 10:04:57:888] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultDeviceController/chooseAudioInputDevice {"autoGainControl":true,"deviceId":"default","noiseSuppression":true} -> "success" 
+[02/22/22, 10:04:57:888] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultDeviceController/createAnalyserNodeForAudioInput 
+[02/22/22, 10:04:57:888] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/createAnalyserNodeForAudioInput 
+[02/22/22, 10:04:57:889] info: [(?)] AudioSendAnomalyDetector state change: WAITING_TO_MEASURE 
+[02/22/22, 10:04:57:890] info: [FREE-WILLY-DISPATCHER] (T0101L740P4) Received permission update from type:microphone, isDenied: false 
+[02/22/22, 10:04:57:892] info: [DEVICES] (T0101L740P4) DeviceManager::audioInputMuteStateChanged: device: default, unmuted 
+[02/22/22, 10:04:58:240] info: [FREE-WILLY-SDK] (T0101L740P4) peer connection state changed: connected 
+[02/22/22, 10:04:58:530] info: [AUDIO-VIDEO-FACADE-SU] (T0101L740P4) Attendee presence: attendeeId=d17a11f5-3c21-6474-803c-8752f3e54d3b, isSelf=true, present=true, externalUserId=T0101L740P4-R033WBRA2CW-U033MPP6G9E-3136148447829, dropped=false 
+[02/22/22, 10:04:58:535] info: [METRICS] (T0101L740P4) websocket_connected 3910.800000000745 
+[02/22/22, 10:04:58:550] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeSubscribeToVolumeIndicator "d17a11f5-3c21-6474-803c-8752f3e54d3b" 
+[02/22/22, 10:04:58:551] info: [AUDIO-VIDEO-FACADE-SU] (T0101L740P4) Subscribed to attendee=d17a11f5-3c21-6474-803c-8752f3e54d3b volume indicator 
+[02/22/22, 10:04:58:552] info: [FREE-WILLY-SDK] (T0101L740P4) attendeePresenceReceived: d17a11f5-3c21-6474-803c-8752f3e54d3b 
+[02/22/22, 10:04:58:583] info: [API-Q] (T0101L740P4) noversion-1645513498.578 Flannel channels/info called with reason: flannel-call:channels/info 
+[02/22/22, 10:04:58:584] info: [API-Q] (T0101L740P4) noversion-1645513498.578 Flannel channels/info is ENQUEUED 
+[02/22/22, 10:04:58:585] info: [API-Q] (T0101L740P4) noversion-1645513498.578 Flannel channels/info is ACTIVE 
+[02/22/22, 10:04:58:796] warn: (T0101L740P4) No toast queue found for team T0101L740P4 
+[02/22/22, 10:04:58:820] warn: (T0101L740P4) No toast queue found for team T0101L740P4 
+[02/22/22, 10:04:58:861] info: [API-Q] (T0101L740P4) noversion-1645513498.578 Flannel channels/info is RESOLVED 
+[02/22/22, 10:04:58:866] info: [API-Q] (T0101L740P4) c8b4971c-1645513498.864 conversations.genericInfo called with reason: fallback:fetchAndUpsertChannelsById 
+[02/22/22, 10:04:58:866] info: [API-Q] (T0101L740P4) c8b4971c-1645513498.864 conversations.genericInfo is ENQUEUED 
+[02/22/22, 10:04:58:868] info: [API-Q] (T0101L740P4) c8b4971c-1645513498.864 conversations.genericInfo is ACTIVE 
+[02/22/22, 10:04:59:222] info: [API-Q] (T0101L740P4) c8b4971c-1645513499.221 users.interactions.list called with reason: huddle-discovery-calls 
+[02/22/22, 10:04:59:222] info: [API-Q] (T0101L740P4) c8b4971c-1645513499.221 users.interactions.list is ENQUEUED 
+[02/22/22, 10:04:59:224] info: [API-Q] (T0101L740P4) c8b4971c-1645513499.221 users.interactions.list is ACTIVE 
+[02/22/22, 10:04:59:378] info: [API-Q] (T0101L740P4) c8b4971c-1645513498.864 conversations.genericInfo is RESOLVED 
+[02/22/22, 10:04:59:670] info: [API-Q] (T0101L740P4) c8b4971c-1645513499.221 users.interactions.list is RESOLVED 
+[02/22/22, 10:04:59:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:04:59:803] info: [STATS-MANAGER] (T0101L740P4) Candidate: relay, Network: wifi, Transport: udp 
+[02/22/22, 10:04:59:804] info: [(?)] AudioSendAnomalyDetector state change: MEASURING 
+[02/22/22, 10:05:00:247] info: [INTER-WINDOW-MESSAGE] (T0101L740P4) Received inviteResponse from the slack window, with payload: {"userId":"U02TWEA26UB","response":"accept"} 
+[02/22/22, 10:05:01:799] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:01:809] info: [(?)] Detected audio input from device: default/Default/false over 1.9999999999999578 seconds, energy increase: 0.007571749011586833 
+[02/22/22, 10:05:01:810] info: [(?)] AudioSendAnomalyDetector state change: IDLE 
+[02/22/22, 10:05:03:230] info: [FREE-WILLY-SDK] (T0101L740P4) received new index {"atCapacity":false,"numParticipants":2} 
+[02/22/22, 10:05:03:230] info: [FREE-WILLY-SDK] (T0101L740P4) should resubscribe: false (downlink: false uplink: false) 
+[02/22/22, 10:05:03:359] info: [AUDIO-VIDEO-FACADE-SU] (T0101L740P4) Attendee presence: attendeeId=4f187195-0f2c-a556-6ae9-75683cec299f, isSelf=false, present=true, externalUserId=T0101L740P4-R033WBRA2CW-U02TWEA26UB-3151665188673, dropped=false 
+[02/22/22, 10:05:03:361] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/bindAudioElement "" -> {} 
+[02/22/22, 10:05:03:391] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getAllVideoTiles 
+[02/22/22, 10:05:03:392] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeSubscribeToVolumeIndicator "4f187195-0f2c-a556-6ae9-75683cec299f" 
+[02/22/22, 10:05:03:392] info: [AUDIO-VIDEO-FACADE-SU] (T0101L740P4) Subscribed to attendee=4f187195-0f2c-a556-6ae9-75683cec299f volume indicator 
+[02/22/22, 10:05:03:393] info: [FREE-WILLY-SDK] (T0101L740P4) attendeePresenceReceived: d17a11f5-3c21-6474-803c-8752f3e54d3b 
+[02/22/22, 10:05:03:402] info: [CALL-SOUNDS] (T0101L740P4) Outgoing ring: requesting parent window to stop 
+[02/22/22, 10:05:03:403] info: [INTER-WINDOW-MESSAGE] (T0101L740P4) Sending stopOutgoingRing to the slack window 
+[02/22/22, 10:05:03:842] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:04:037] info: [(?)] Call info found, skipping fallback fetchCall 
+[02/22/22, 10:05:04:114] info: [FREE-WILLY-SDK] (T0101L740P4) received new index {"atCapacity":false,"numParticipants":2} 
+[02/22/22, 10:05:04:115] info: [FREE-WILLY-SDK] (T0101L740P4) should resubscribe: false (downlink: false uplink: false) 
+[02/22/22, 10:05:04:414] info: [FREE-WILLY-SDK] (T0101L740P4) received new index {"atCapacity":false,"numParticipants":2} 
+[02/22/22, 10:05:04:415] info: [FREE-WILLY-SDK] (T0101L740P4) should resubscribe: false (downlink: false uplink: false) 
+[02/22/22, 10:05:05:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:06:525] info: [FREE-WILLY-SDK] (T0101L740P4) local clock skew estimate=-516ms from ping-pong time=229ms 
+[02/22/22, 10:05:07:799] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:07:800] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:07:814] info: [API-Q] (T0101L740P4) c8b4971c-1645513507.811 screenhero.rooms.postAnalytics called with reason: calls-analytics 
+[02/22/22, 10:05:07:815] info: [API-Q] (T0101L740P4) c8b4971c-1645513507.811 screenhero.rooms.postAnalytics is ENQUEUED 
+[02/22/22, 10:05:07:816] info: [API-Q] (T0101L740P4) c8b4971c-1645513507.811 screenhero.rooms.postAnalytics is ACTIVE 
+[02/22/22, 10:05:08:301] info: [API-Q] (T0101L740P4) c8b4971c-1645513507.811 screenhero.rooms.postAnalytics is RESOLVED 
+[02/22/22, 10:05:08:599] info: [STATUS-DISPLAY-MGR] (T0101L740P4) Alert displayed: type: remotePeerMuted, isHighPriority: undefined, dismissible?: undefined 
+[02/22/22, 10:05:09:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:11:801] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:13:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:15:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:16:504] info: [FREE-WILLY-SDK] (T0101L740P4) local clock skew estimate=-519ms from ping-pong time=208ms 
+[02/22/22, 10:05:17:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:17:799] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:17:810] info: [API-Q] (T0101L740P4) c8b4971c-1645513517.807 screenhero.rooms.postAnalytics called with reason: calls-analytics 
+[02/22/22, 10:05:17:810] info: [API-Q] (T0101L740P4) c8b4971c-1645513517.807 screenhero.rooms.postAnalytics is ENQUEUED 
+[02/22/22, 10:05:17:814] info: [API-Q] (T0101L740P4) c8b4971c-1645513517.807 screenhero.rooms.postAnalytics is ACTIVE 
+[02/22/22, 10:05:18:277] info: [API-Q] (T0101L740P4) c8b4971c-1645513517.807 screenhero.rooms.postAnalytics is RESOLVED 
+[02/22/22, 10:05:19:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:21:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:23:804] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:25:253] info: [STATUS-DISPLAY-MGR] (T0101L740P4) Alert displayed: type: remotePeerMuted, isHighPriority: undefined, dismissible?: undefined 
+[02/22/22, 10:05:25:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:26:453] info: [FREE-WILLY-SDK] (T0101L740P4) local clock skew estimate=-539ms from ping-pong time=156ms 
+[02/22/22, 10:05:27:804] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:27:804] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:27:810] info: [API-Q] (T0101L740P4) c8b4971c-1645513527.807 screenhero.rooms.postAnalytics called with reason: calls-analytics 
+[02/22/22, 10:05:27:811] info: [API-Q] (T0101L740P4) c8b4971c-1645513527.807 screenhero.rooms.postAnalytics is ENQUEUED 
+[02/22/22, 10:05:27:814] info: [API-Q] (T0101L740P4) c8b4971c-1645513527.807 screenhero.rooms.postAnalytics is ACTIVE 
+[02/22/22, 10:05:27:824] info: [API-Q] (T0101L740P4) c8b4971c-1645513527.821 screenhero.rooms.postAnalytics called with reason: calls-analytics 
+[02/22/22, 10:05:27:824] info: [API-Q] (T0101L740P4) c8b4971c-1645513527.821 screenhero.rooms.postAnalytics is ENQUEUED 
+[02/22/22, 10:05:27:828] info: [API-Q] (T0101L740P4) c8b4971c-1645513527.821 screenhero.rooms.postAnalytics is ACTIVE 
+[02/22/22, 10:05:28:214] info: [API-Q] (T0101L740P4) c8b4971c-1645513527.807 screenhero.rooms.postAnalytics is RESOLVED 
+[02/22/22, 10:05:28:226] info: [API-Q] (T0101L740P4) c8b4971c-1645513527.821 screenhero.rooms.postAnalytics is RESOLVED 
+[02/22/22, 10:05:29:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:31:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:33:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:35:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:36:452] info: [FREE-WILLY-SDK] (T0101L740P4) local clock skew estimate=-540ms from ping-pong time=156ms 
+[02/22/22, 10:05:37:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:37:799] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:37:805] info: [API-Q] (T0101L740P4) c8b4971c-1645513537.803 screenhero.rooms.postAnalytics called with reason: calls-analytics 
+[02/22/22, 10:05:37:805] info: [API-Q] (T0101L740P4) c8b4971c-1645513537.803 screenhero.rooms.postAnalytics is ENQUEUED 
+[02/22/22, 10:05:37:808] info: [API-Q] (T0101L740P4) c8b4971c-1645513537.803 screenhero.rooms.postAnalytics is ACTIVE 
+[02/22/22, 10:05:38:243] info: [API-Q] (T0101L740P4) c8b4971c-1645513537.803 screenhero.rooms.postAnalytics is RESOLVED 
+[02/22/22, 10:05:39:799] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:41:798] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:43:799] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/getRTCPeerConnectionStats null 
+[02/22/22, 10:05:44:996] info: [(?)] End call: button 
+[02/22/22, 10:05:45:006] info: [CALL-WINDOW] (T0101L740P4) dispatching disconnect 
+[02/22/22, 10:05:45:014] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/removeContentShareObserver 
+[02/22/22, 10:05:45:016] info: [FREE-WILLY-SDK] (T0101L740P4) removing device change observer 
+[02/22/22, 10:05:45:017] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultDeviceController/removeDeviceChangeObserver 
+[02/22/22, 10:05:45:018] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/removeDeviceChangeObserver 
+[02/22/22, 10:05:45:020] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/stopLocalVideoTile 
+[02/22/22, 10:05:45:027] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/chooseAudioOutputDevice null 
+[02/22/22, 10:05:45:027] info: [FREE-WILLY-SDK] (T0101L740P4) transitioning from Connected to Disconnecting with Disconnect 
+[02/22/22, 10:05:45:028] info: [FREE-WILLY-SDK] (T0101L740P4) attendee left meeting, session will not be reconnected 
+[02/22/22, 10:05:45:029] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b 
+[02/22/22, 10:05:45:029] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b running subtask AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms 
+[02/22/22, 10:05:45:030] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms 
+[02/22/22, 10:05:45:030] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/LeaveAndReceiveLeaveAckTask 
+[02/22/22, 10:05:45:031] info: [FREE-WILLY-SDK] (T0101L740P4) sent leave 
+[02/22/22, 10:05:45:032] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/stop 
+[02/22/22, 10:05:45:042] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultDeviceController/chooseAudioOutputDevice null -> null 
+[02/22/22, 10:05:45:043] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/unbindAudioElement 
+[02/22/22, 10:05:45:048] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeUnsubscribeFromVolumeIndicator "d17a11f5-3c21-6474-803c-8752f3e54d3b" 
+[02/22/22, 10:05:45:049] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeUnsubscribeFromVolumeIndicator "4f187195-0f2c-a556-6ae9-75683cec299f" 
+[02/22/22, 10:05:45:050] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeUnsubscribeToAttendeeIdPresence 
+[02/22/22, 10:05:45:050] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeUnsubscribeToLocalSignalStrengthChange 
+[02/22/22, 10:05:45:051] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/unsubscribeFromActiveSpeakerDetector 
+[02/22/22, 10:05:45:053] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/realtimeUnsubscribeFromReceiveDataMessage 
+[02/22/22, 10:05:45:216] info: [FREE-WILLY-SDK] (T0101L740P4) got leave ack 
+[02/22/22, 10:05:45:217] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/LeaveAndReceiveLeaveAckTask took 187 ms 
+[02/22/22, 10:05:45:217] info: [FREE-WILLY-SDK] (T0101L740P4) timeout task AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms completed 
+[02/22/22, 10:05:45:218] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms took 188 ms 
+[02/22/22, 10:05:45:219] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b completed subtask AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms 
+[02/22/22, 10:05:45:219] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b completed 
+[02/22/22, 10:05:45:220] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoStop/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b took 189 ms 
+[02/22/22, 10:05:45:221] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b 
+[02/22/22, 10:05:45:221] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b running subtask AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms 
+[02/22/22, 10:05:45:222] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms 
+[02/22/22, 10:05:45:223] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/CleanStoppedSessionTask 
+[02/22/22, 10:05:45:223] info: [FREE-WILLY-SDK] (T0101L740P4) notifying event: WebSocketClosing 
+[02/22/22, 10:05:45:224] info: [FREE-WILLY-SDK] (T0101L740P4) stopped pinging (WebSocketClosing) 
+[02/22/22, 10:05:45:225] info: [FREE-WILLY-SDK] (T0101L740P4) notifying event: WebSocketClosed 
+[02/22/22, 10:05:45:225] info: [FREE-WILLY-SDK] (T0101L740P4) stopped pinging (WebSocketClosed) 
+[02/22/22, 10:05:45:226] info: [FREE-WILLY-SDK] (T0101L740P4) no connection requests to service 
+[02/22/22, 10:05:45:227] info: [FREE-WILLY-SDK] (T0101L740P4) removing meeting observer 
+[02/22/22, 10:05:45:227] info: [FREE-WILLY-SDK] (T0101L740P4) Stopping DefaultStatsCollector 
+[02/22/22, 10:05:45:228] info: [FREE-WILLY-SDK] (T0101L740P4) removing a ping-pong observer 
+[02/22/22, 10:05:45:228] info: [FREE-WILLY-SDK] (T0101L740P4) removing meeting observer 
+[02/22/22, 10:05:45:250] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms/CleanStoppedSessionTask took 30 ms 
+[02/22/22, 10:05:45:251] info: [FREE-WILLY-SDK] (T0101L740P4) timeout task AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms completed 
+[02/22/22, 10:05:45:252] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms took 31 ms 
+[02/22/22, 10:05:45:254] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b completed subtask AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/Timeout15000ms 
+[02/22/22, 10:05:45:254] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b running subtask AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/ReleaseMediaStreamsTask 
+[02/22/22, 10:05:45:255] info: [FREE-WILLY-SDK] (T0101L740P4) running task AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/ReleaseMediaStreamsTask 
+[02/22/22, 10:05:45:258] info: [FREE-WILLY-SDK] (T0101L740P4) Stopping devicechange listener. 
+[02/22/22, 10:05:45:260] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/ReleaseMediaStreamsTask took 6 ms 
+[02/22/22, 10:05:45:261] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b completed subtask AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/ReleaseMediaStreamsTask 
+[02/22/22, 10:05:45:261] info: [FREE-WILLY-SDK] (T0101L740P4) serial group task AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b completed 
+[02/22/22, 10:05:45:262] info: [FREE-WILLY-SDK] (T0101L740P4) AudioVideoClean/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b took 40 ms 
+[02/22/22, 10:05:45:263] info: [FREE-WILLY-SDK] (T0101L740P4) transitioning from Disconnecting to NotConnected with FinishDisconnecting 
+[02/22/22, 10:05:45:263] info: [FREE-WILLY-AV] (T0101L740P4) Chime session stopped. StatusCode: Left 
+[02/22/22, 10:05:45:264] info: [FREE-WILLY-SDK] (T0101L740P4) removing meeting observer 
+[02/22/22, 10:05:45:264] info: [FREE-WILLY-SDK] (T0101L740P4) API/DefaultAudioVideoFacade/9375ddc4-e622-4940-83d0-22869c610706/d17a11f5-3c21-6474-803c-8752f3e54d3b/removeObserver 
+[02/22/22, 10:05:45:264] info: [(?)] Cleaning up AudioSendAnomalyDetector 
+[02/22/22, 10:05:45:266] info: [CALL-WINDOW] (T0101L740P4) Closing call window (deferred) 
+[02/22/22, 10:05:45:271] warn: Couldn't complete metrics measurement for start mark 'session_lifespan' 
+[02/22/22, 10:05:45:272] warn: Couldn't complete metrics measurement for start mark 'session_lifespan' 
+[02/22/22, 10:05:45:276] info: [(?)] Call window: close 

@@ -1,0 +1,25 @@
+[2022-02-22 09:01:45.077] [renderer4] [info] IExtensionHostStarter.start() took 120 ms.
+[2022-02-22 09:01:45.625] [renderer4] [error] [Extension Host] (node:19302) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-22 10:13:01.330] [renderer4] [error] [Extension Host] Error: spawn git ENOENT
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+	at onErrorNT (internal/child_process.js:465:16)
+	at processTicksAndRejections (internal/process/task_queues.js:80:21)
+[2022-02-22 10:13:01.331] [renderer4] [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/bootstrap.js:1:370)
+	at process.emit (events.js:315:20)
+[2022-02-22 10:13:02.330] [renderer4] [error] spawn git ENOENT: Error: spawn git ENOENT
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+	at onErrorNT (internal/child_process.js:465:16)
+	at processTicksAndRejections (internal/process/task_queues.js:80:21)
+[2022-02-22 10:25:31.106] [renderer4] [info] Settings Sync: Updated current session e5b0fa0c-9b6a-4021-9499-9c55256df8a6
+[2022-02-22 10:29:02.647] [renderer4] [info] Settings Sync: Reset current session
+[2022-02-22 10:29:49.280] [renderer4] [info] Settings Sync: Updated current session 95c6786d-199c-440c-8201-53eb5a236d08
+[2022-02-22 10:33:44.833] [renderer4] [info] IExtensionHostStarter.start() took 18 ms.
+[2022-02-22 10:33:45.329] [renderer4] [error] [Extension Host] (node:22246) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-22 10:33:45.507] [renderer4] [info] IExtensionHostStarter.start() took 66 ms.
+[2022-02-22 10:33:45.906] [renderer4] [error] [Extension Host] (node:22259) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-22 10:44:59.001] [renderer4] [warning] {}
+[2022-02-22 10:45:02.695] [renderer4] [warning] {}

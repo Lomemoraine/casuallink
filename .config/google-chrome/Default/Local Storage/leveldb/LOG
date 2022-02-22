@@ -1,0 +1,8 @@
+2022/02/22-06:58:46.162 5 Creating DB /home/lorraine/.config/google-chrome/Default/Local Storage/leveldb since it was missing.
+2022/02/22-06:58:46.566 5 Reusing MANIFEST /home/lorraine/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/02/22-07:12:32.690 d Level-0 table #5: started
+2022/02/22-07:12:35.219 d Level-0 table #5: 16737 bytes OK
+2022/02/22-07:12:35.278 d Delete type=0 #3
+2022/02/22-08:24:04.065 23 Level-0 table #7: started
+2022/02/22-08:24:04.122 23 Level-0 table #7: 50683 bytes OK
+2022/02/22-08:24:04.158 23 Delete type=0 #4

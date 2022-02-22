@@ -1,0 +1,8 @@
+2022/02/22-06:58:54.791 3 Creating DB /home/lorraine/.config/google-chrome/Default/Session Storage since it was missing.
+2022/02/22-06:58:55.001 3 Reusing MANIFEST /home/lorraine/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/02/22-07:03:17.071 3 Level-0 table #5: started
+2022/02/22-07:03:19.358 3 Level-0 table #5: 33342 bytes OK
+2022/02/22-07:03:19.394 3 Delete type=0 #3
+2022/02/22-07:08:57.632 a Level-0 table #7: started
+2022/02/22-07:08:57.687 a Level-0 table #7: 31610 bytes OK
+2022/02/22-07:08:57.720 a Delete type=0 #4
