@@ -548,3 +548,230 @@ X Protocol Version 11, Revision 0
 [  1000.198] (II) event9  - HP HD Camera: HP HD Camera: is tagged by udev as: Keyboard
 [  1000.198] (II) event9  - HP HD Camera: HP HD Camera: device is a keyboard
 [  9871.484] (II) event4  - SynPS/2 Synaptics TouchPad: SYN_DROPPED event - some input events have been lost.
+[ 17143.221] (II) modeset(0): EDID vendor "CMN", prod id 5603
+[ 17143.221] (II) modeset(0): Printing DDC gathered Modelines:
+[ 17143.221] (II) modeset(0): Modeline "1920x1080"x0.0  152.84  1920 1964 1992 2250  1080 1082 1086 1132 +hsync -vsync (67.9 kHz eP)
+[ 17143.221] (II) modeset(0): Modeline "1920x1080"x0.0  101.88  1920 1964 1992 2250  1080 1082 1086 1132 +hsync -vsync (45.3 kHz e)
+[ 17143.300] (II) config/udev: Adding input device SynPS/2 Synaptics TouchPad (/dev/input/mouse0)
+[ 17143.301] (II) No input driver specified, ignoring this device.
+[ 17143.301] (II) This device may have been added with another device file.
+[ 17143.302] (II) config/udev: Adding input device ST LIS3LV02DL Accelerometer (/dev/input/js0)
+[ 17143.302] (II) No input driver specified, ignoring this device.
+[ 17143.302] (II) This device may have been added with another device file.
+[ 17143.314] (II) config/udev: Adding input device Lid Switch (/dev/input/event1)
+[ 17143.314] (II) No input driver specified, ignoring this device.
+[ 17143.314] (II) This device may have been added with another device file.
+[ 17143.315] (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=8 (/dev/input/event14)
+[ 17143.315] (II) No input driver specified, ignoring this device.
+[ 17143.315] (II) This device may have been added with another device file.
+[ 17143.316] (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=10 (/dev/input/event16)
+[ 17143.316] (II) No input driver specified, ignoring this device.
+[ 17143.316] (II) This device may have been added with another device file.
+[ 17143.316] (II) config/udev: Adding input device HDA Intel PCH Mic (/dev/input/event10)
+[ 17143.316] (II) No input driver specified, ignoring this device.
+[ 17143.316] (II) This device may have been added with another device file.
+[ 17143.319] (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=3 (/dev/input/event12)
+[ 17143.319] (II) No input driver specified, ignoring this device.
+[ 17143.319] (II) This device may have been added with another device file.
+[ 17143.319] (II) config/udev: removing device Power Button
+[ 17144.160] (**) Option "fd" "30"
+[ 17144.160] (II) event2  - Power Button: device removed
+[ 17145.561] (II) UnloadModule: "libinput"
+[ 17145.561] (II) systemd-logind: releasing fd for 13:66
+[ 17145.580] (II) config/udev: Adding input device Power Button (/dev/input/event2)
+[ 17145.580] (**) Power Button: Applying InputClass "libinput keyboard catchall"
+[ 17145.580] (II) Using input driver 'libinput' for 'Power Button'
+[ 17145.582] (II) systemd-logind: got fd for /dev/input/event2 13:66 fd 105 paused 0
+[ 17145.582] (**) Power Button: always reports core events
+[ 17145.582] (**) Option "Device" "/dev/input/event2"
+[ 17145.582] (**) Option "_source" "server/udev"
+[ 17145.582] (II) event2  - Power Button: is tagged by udev as: Keyboard
+[ 17145.582] (II) event2  - Power Button: device is a keyboard
+[ 17145.583] (II) event2  - Power Button: device removed
+[ 17145.583] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input2/event2"
+[ 17145.583] (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+[ 17145.583] (**) Option "xkb_model" "pc105"
+[ 17145.583] (**) Option "xkb_layout" "us"
+[ 17145.583] (WW) Option "xkb_variant" requires a string value
+[ 17145.583] (WW) Option "xkb_options" requires a string value
+[ 17145.612] (II) event2  - Power Button: is tagged by udev as: Keyboard
+[ 17145.612] (II) event2  - Power Button: device is a keyboard
+[ 17145.612] (EE) client bug: timer event4 keyboard: scheduled expiry is in the past (-1529ms), your system is too slow
+[ 17145.612] (EE) client bug: timer event4 keyboard: scheduled expiry is in the past (-1088ms), your system is too slow
+[ 17145.612] (EE) client bug: timer event4 keyboard: scheduled expiry is in the past (-760ms), your system is too slow
+[ 17145.612] (EE) client bug: timer event4 keyboard: scheduled expiry is in the past (-547ms), your system is too slow
+[ 17145.612] (EE) client bug: timer event4 keyboard: scheduled expiry is in the past (-261ms), your system is too slow
+[ 17145.612] (EE) client bug: timer event4 keyboard: scheduled expiry is in the past (-138ms), your system is too slow
+[ 17145.613] (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=9 (/dev/input/event15)
+[ 17145.613] (II) No input driver specified, ignoring this device.
+[ 17145.613] (II) This device may have been added with another device file.
+[ 17145.615] (II) config/udev: Adding input device HDA Intel PCH Headphone (/dev/input/event11)
+[ 17145.615] (II) No input driver specified, ignoring this device.
+[ 17145.615] (II) This device may have been added with another device file.
+[ 17145.615] (II) config/udev: removing device Video Bus
+[ 17145.615] (**) Option "fd" "26"
+[ 17145.615] (II) event8  - Video Bus: device removed
+[ 17145.617] (II) UnloadModule: "libinput"
+[ 17145.617] (II) systemd-logind: releasing fd for 13:72
+[ 17145.640] (II) config/udev: Adding input device Video Bus (/dev/input/event8)
+[ 17145.640] (**) Video Bus: Applying InputClass "libinput keyboard catchall"
+[ 17145.640] (II) Using input driver 'libinput' for 'Video Bus'
+[ 17145.641] (II) systemd-logind: got fd for /dev/input/event8 13:72 fd 30 paused 0
+[ 17145.641] (**) Video Bus: always reports core events
+[ 17145.641] (**) Option "Device" "/dev/input/event8"
+[ 17145.641] (**) Option "_source" "server/udev"
+[ 17145.642] (II) event8  - Video Bus: is tagged by udev as: Keyboard
+[ 17145.642] (II) event8  - Video Bus: device is a keyboard
+[ 17145.643] (II) event8  - Video Bus: device removed
+[ 17145.643] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/LNXVIDEO:00/input/input15/event8"
+[ 17145.643] (II) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 7)
+[ 17145.643] (**) Option "xkb_model" "pc105"
+[ 17145.643] (**) Option "xkb_layout" "us"
+[ 17145.643] (WW) Option "xkb_variant" requires a string value
+[ 17145.643] (WW) Option "xkb_options" requires a string value
+[ 17145.644] (II) event8  - Video Bus: is tagged by udev as: Keyboard
+[ 17145.644] (II) event8  - Video Bus: device is a keyboard
+[ 17145.646] (II) config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=7 (/dev/input/event13)
+[ 17145.646] (II) No input driver specified, ignoring this device.
+[ 17145.646] (II) This device may have been added with another device file.
+[ 17145.646] (II) config/udev: removing device HP HD Camera: HP HD Camera
+[ 17145.646] (**) Option "fd" "35"
+[ 17145.646] (II) event9  - HP HD Camera: HP HD Camera: device removed
+[ 17145.648] (II) UnloadModule: "libinput"
+[ 17145.648] (II) systemd-logind: releasing fd for 13:73
+[ 17145.692] (II) config/udev: Adding input device HP HD Camera: HP HD Camera (/dev/input/event9)
+[ 17145.693] (**) HP HD Camera: HP HD Camera: Applying InputClass "libinput keyboard catchall"
+[ 17145.693] (II) Using input driver 'libinput' for 'HP HD Camera: HP HD Camera'
+[ 17145.694] (II) systemd-logind: got fd for /dev/input/event9 13:73 fd 35 paused 0
+[ 17145.694] (**) HP HD Camera: HP HD Camera: always reports core events
+[ 17145.694] (**) Option "Device" "/dev/input/event9"
+[ 17145.694] (**) Option "_source" "server/udev"
+[ 17145.695] (II) event9  - HP HD Camera: HP HD Camera: is tagged by udev as: Keyboard
+[ 17145.695] (II) event9  - HP HD Camera: HP HD Camera: device is a keyboard
+[ 17145.695] (II) event9  - HP HD Camera: HP HD Camera: device removed
+[ 17145.695] (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-6/1-6:1.0/input/input16/event9"
+[ 17145.695] (II) XINPUT: Adding extended input device "HP HD Camera: HP HD Camera" (type: KEYBOARD, id 9)
+[ 17145.695] (**) Option "xkb_model" "pc105"
+[ 17145.695] (**) Option "xkb_layout" "us"
+[ 17145.695] (WW) Option "xkb_variant" requires a string value
+[ 17145.695] (WW) Option "xkb_options" requires a string value
+[ 17145.697] (II) event9  - HP HD Camera: HP HD Camera: is tagged by udev as: Keyboard
+[ 17145.697] (II) event9  - HP HD Camera: HP HD Camera: device is a keyboard
+[ 17145.698] (II) config/udev: removing device AT Translated Set 2 keyboard
+[ 17145.698] (**) Option "fd" "34"
+[ 17145.698] (II) event3  - AT Translated Set 2 keyboard: device removed
+[ 17145.700] (II) UnloadModule: "libinput"
+[ 17145.700] (II) systemd-logind: releasing fd for 13:67
+[ 17145.720] (II) config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event3)
+[ 17145.787] (**) AT Translated Set 2 keyboard: Applying InputClass "libinput keyboard catchall"
+[ 17145.787] (II) Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+[ 17145.788] (II) systemd-logind: got fd for /dev/input/event3 13:67 fd 34 paused 0
+[ 17145.788] (**) AT Translated Set 2 keyboard: always reports core events
+[ 17145.788] (**) Option "Device" "/dev/input/event3"
+[ 17145.788] (**) Option "_source" "server/udev"
+[ 17145.789] (II) event3  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[ 17145.789] (II) event3  - AT Translated Set 2 keyboard: device is a keyboard
+[ 17145.790] (II) event3  - AT Translated Set 2 keyboard: device removed
+[ 17145.790] (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio0/input/input3/event3"
+[ 17145.790] (II) XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 10)
+[ 17145.790] (**) Option "xkb_model" "pc105"
+[ 17145.790] (**) Option "xkb_layout" "us"
+[ 17145.790] (WW) Option "xkb_variant" requires a string value
+[ 17145.790] (WW) Option "xkb_options" requires a string value
+[ 17145.792] (II) event3  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[ 17145.792] (II) event3  - AT Translated Set 2 keyboard: device is a keyboard
+[ 17145.793] (II) config/udev: removing device HP Wireless hotkeys
+[ 17145.793] (**) Option "fd" "50"
+[ 17145.793] (II) event5  - HP Wireless hotkeys: device removed
+[ 17145.795] (II) UnloadModule: "libinput"
+[ 17145.795] (II) systemd-logind: releasing fd for 13:69
+[ 17145.828] (II) config/udev: Adding input device HP Wireless hotkeys (/dev/input/event5)
+[ 17145.828] (**) HP Wireless hotkeys: Applying InputClass "libinput keyboard catchall"
+[ 17145.828] (II) Using input driver 'libinput' for 'HP Wireless hotkeys'
+[ 17145.829] (II) systemd-logind: got fd for /dev/input/event5 13:69 fd 50 paused 0
+[ 17145.829] (**) HP Wireless hotkeys: always reports core events
+[ 17145.829] (**) Option "Device" "/dev/input/event5"
+[ 17145.829] (**) Option "_source" "server/udev"
+[ 17145.830] (II) event5  - HP Wireless hotkeys: is tagged by udev as: Keyboard
+[ 17145.830] (II) event5  - HP Wireless hotkeys: device is a keyboard
+[ 17145.830] (II) event5  - HP Wireless hotkeys: device removed
+[ 17145.830] (**) Option "config_info" "udev:/sys/devices/virtual/input/input12/event5"
+[ 17145.830] (II) XINPUT: Adding extended input device "HP Wireless hotkeys" (type: KEYBOARD, id 12)
+[ 17145.830] (**) Option "xkb_model" "pc105"
+[ 17145.830] (**) Option "xkb_layout" "us"
+[ 17145.830] (WW) Option "xkb_variant" requires a string value
+[ 17145.830] (WW) Option "xkb_options" requires a string value
+[ 17145.832] (II) event5  - HP Wireless hotkeys: is tagged by udev as: Keyboard
+[ 17145.832] (II) event5  - HP Wireless hotkeys: device is a keyboard
+[ 17145.833] (II) config/udev: Adding input device ST LIS3LV02DL Accelerometer (/dev/input/event7)
+[ 17145.833] (II) No input driver specified, ignoring this device.
+[ 17145.833] (II) This device may have been added with another device file.
+[ 17145.833] (II) config/udev: removing device HP WMI hotkeys
+[ 17145.833] (**) Option "fd" "33"
+[ 17145.833] (II) event6  - HP WMI hotkeys: device removed
+[ 17145.835] (II) UnloadModule: "libinput"
+[ 17145.835] (II) systemd-logind: releasing fd for 13:70
+[ 17145.860] (II) config/udev: Adding input device HP WMI hotkeys (/dev/input/event6)
+[ 17145.860] (**) HP WMI hotkeys: Applying InputClass "libinput keyboard catchall"
+[ 17145.860] (II) Using input driver 'libinput' for 'HP WMI hotkeys'
+[ 17145.861] (II) systemd-logind: got fd for /dev/input/event6 13:70 fd 33 paused 0
+[ 17145.861] (**) HP WMI hotkeys: always reports core events
+[ 17145.861] (**) Option "Device" "/dev/input/event6"
+[ 17145.861] (**) Option "_source" "server/udev"
+[ 17145.862] (II) event6  - HP WMI hotkeys: is tagged by udev as: Keyboard Switch
+[ 17145.862] (II) event6  - HP WMI hotkeys: device is a keyboard
+[ 17145.862] (II) event6  - HP WMI hotkeys: device removed
+[ 17145.862] (**) Option "config_info" "udev:/sys/devices/virtual/input/input13/event6"
+[ 17145.862] (II) XINPUT: Adding extended input device "HP WMI hotkeys" (type: KEYBOARD, id 13)
+[ 17145.862] (**) Option "xkb_model" "pc105"
+[ 17145.862] (**) Option "xkb_layout" "us"
+[ 17145.862] (WW) Option "xkb_variant" requires a string value
+[ 17145.862] (WW) Option "xkb_options" requires a string value
+[ 17145.863] (II) event6  - HP WMI hotkeys: is tagged by udev as: Keyboard Switch
+[ 17145.863] (II) event6  - HP WMI hotkeys: device is a keyboard
+[ 17145.865] (II) config/udev: removing device Sleep Button
+[ 17145.865] (**) Option "fd" "29"
+[ 17145.865] (II) event0  - Sleep Button: device removed
+[ 17145.867] (II) UnloadModule: "libinput"
+[ 17145.867] (II) systemd-logind: releasing fd for 13:64
+[ 17145.888] (II) config/udev: Adding input device Sleep Button (/dev/input/event0)
+[ 17145.888] (**) Sleep Button: Applying InputClass "libinput keyboard catchall"
+[ 17145.888] (II) Using input driver 'libinput' for 'Sleep Button'
+[ 17145.889] (II) systemd-logind: got fd for /dev/input/event0 13:64 fd 29 paused 0
+[ 17145.889] (**) Sleep Button: always reports core events
+[ 17145.889] (**) Option "Device" "/dev/input/event0"
+[ 17145.889] (**) Option "_source" "server/udev"
+[ 17145.891] (II) event0  - Sleep Button: is tagged by udev as: Keyboard
+[ 17145.891] (II) event0  - Sleep Button: device is a keyboard
+[ 17145.891] (II) event0  - Sleep Button: device removed
+[ 17145.891] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0E:00/input/input0/event0"
+[ 17145.891] (II) XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 8)
+[ 17145.891] (**) Option "xkb_model" "pc105"
+[ 17145.891] (**) Option "xkb_layout" "us"
+[ 17145.891] (WW) Option "xkb_variant" requires a string value
+[ 17145.891] (WW) Option "xkb_options" requires a string value
+[ 17145.892] (II) event0  - Sleep Button: is tagged by udev as: Keyboard
+[ 17145.892] (II) event0  - Sleep Button: device is a keyboard
+[ 17145.893] (II) config/udev: removing device SynPS/2 Synaptics TouchPad
+[ 17145.893] (**) Option "fd" "31"
+[ 17145.893] (II) event4  - SynPS/2 Synaptics TouchPad: device removed
+[ 17145.899] (II) UnloadModule: "libinput"
+[ 17145.899] (II) systemd-logind: releasing fd for 13:68
+[ 17145.936] (II) config/udev: Adding input device SynPS/2 Synaptics TouchPad (/dev/input/event4)
+[ 17145.936] (**) SynPS/2 Synaptics TouchPad: Applying InputClass "libinput touchpad catchall"
+[ 17145.936] (II) Using input driver 'libinput' for 'SynPS/2 Synaptics TouchPad'
+[ 17145.937] (II) systemd-logind: got fd for /dev/input/event4 13:68 fd 31 paused 0
+[ 17145.937] (**) SynPS/2 Synaptics TouchPad: always reports core events
+[ 17145.937] (**) Option "Device" "/dev/input/event4"
+[ 17145.937] (**) Option "_source" "server/udev"
+[ 17145.939] (II) event4  - SynPS/2 Synaptics TouchPad: is tagged by udev as: Touchpad
+[ 17145.939] (II) event4  - SynPS/2 Synaptics TouchPad: device is a touchpad
+[ 17145.939] (II) event4  - SynPS/2 Synaptics TouchPad: device removed
+[ 17145.940] (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio3/input/input10/event4"
+[ 17145.940] (II) XINPUT: Adding extended input device "SynPS/2 Synaptics TouchPad" (type: TOUCHPAD, id 11)
+[ 17145.941] (**) Option "AccelerationScheme" "none"
+[ 17145.942] (**) SynPS/2 Synaptics TouchPad: (accel) selected scheme none/0
+[ 17145.942] (**) SynPS/2 Synaptics TouchPad: (accel) acceleration factor: 2.000
+[ 17145.942] (**) SynPS/2 Synaptics TouchPad: (accel) acceleration threshold: 4
+[ 17145.943] (II) event4  - SynPS/2 Synaptics TouchPad: is tagged by udev as: Touchpad
+[ 17145.944] (II) event4  - SynPS/2 Synaptics TouchPad: device is a touchpad

@@ -1481,3 +1481,7 @@
   "trace_id": "{\"traceId\":\"ee3eda08152256e6\",\"parentSpanId\":\"ee3eda08152256e6\"}"
 }
 [02/22/22, 10:44:09:273] info: Creating new Electron notification. 
+[02/22/22, 10:51:42:523] info: Store: SET_SYSTEM_IDLE idle
+[02/22/22, 10:52:12:546] info: Store: SET_SYSTEM_IDLE active
+[02/22/22, 10:53:44:622] info: Store: SET_SYSTEM_IDLE idle
+[02/22/22, 10:53:54:623] info: Store: SET_SYSTEM_IDLE active
